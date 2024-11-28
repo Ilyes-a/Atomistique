@@ -12,7 +12,10 @@ Réalisation d’un projet durant ma première année de classe préparatoire, v
 
 <p align="center">
 Essentiellement, la fonction la plus importante du programme, "casesQuantiques", affiche un tableau montrant la disposition des électrons de valence dans les couches appropriées. L'architecture électronique est également écrite.
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dUKY2QV" data-context="false" ><a href="//imgur.com/a/dUKY2QV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="resultats.png" alt="Résultats" />
+
+
+
 <br />
 <br />
 <br />
